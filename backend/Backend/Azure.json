@@ -1,0 +1,10 @@
+{  
+        "deployment_name": "test-1",
+        "api_key": "a156560785ba491b856ba3b8370b7ca1",
+        "api_base": "https://openai-poc-ltts.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2023-07-01-preview",
+        "embedding_name": "embedding-1",
+        "embedding_model":"text-embedding-ada-002"
+}
+
