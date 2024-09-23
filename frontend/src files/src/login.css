@@ -1,0 +1,24 @@
+.main_container{
+    display: flex;
+}
+
+.left_side{
+    width: 700px;
+    height: 640px;
+}
+
+.right_side{
+    width: 700px;
+    height: 640px;
+    background-color: #FFFFFF;
+}
+
+.right_left{
+
+    width: 400px;
+    height: 240px;
+    /* background-color: #cf3636; */
+    margin-top:120px ;
+    margin-left: 150px;
+    
+}
